@@ -1,4 +1,4 @@
-## I'm a Software Engineer,Developer,and Teacher!!
+## I'm a Software Engineer | Developer and Teacher !
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
