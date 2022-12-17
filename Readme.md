@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Fahad ul Hassan. I'm a Software Engineer | Developer and Teacher</p>
 
 ###
 
