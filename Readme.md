@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating next content on javascript<br>📚 I'm currently working with CareCloud Company  <br>🎯 Goals Learn web3 in 2023<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating next content on javascript<br>📚 I'm currently working with CareCloud Company  <br>🎯 Goals Learn web3 in 2023<br>🎲 Fun fact: Think code in Dreams</p>
 
 ###
 
