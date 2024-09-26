@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Fahad ul Hassan. I'm a Software Engineer | Developer and Teacher</p>
+<p align="left">My name is Fahad ul Hassan. I'm a Software Engineer | Full Stack Developer</p>
 
 ###
 
